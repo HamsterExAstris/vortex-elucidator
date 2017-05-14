@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VortexElucidator.Web", "VortexElucidator.Web\VortexElucidator.Web.csproj", "{3C1DF92F-967F-4A0C-AF80-580B72F8DEEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VortexElucidator.Core", "VortexElucidator.Core\VortexElucidator.Core.csproj", "{9C45013A-A3A8-4CFB-AAFA-EB9E9D6F0180}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VortexElucidator.EntityFrameworkCore", "VortexElucidator.EntityFrameworkCore\VortexElucidator.EntityFrameworkCore.csproj", "{DD2BCAD3-2AD1-4DEB-9C2A-BB5BAECF6835}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VortexElucidator.ExternalServices", "VortexElucidator.ExternalServices\VortexElucidator.ExternalServices.csproj", "{00BF245E-A94D-43E0-BD49-577C9E0A11B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShatteredTemple.StructureMap", "ShatteredTemple.StructureMap\ShatteredTemple.StructureMap.csproj", "{619E241F-690B-4F0A-979B-BD1C635E2DA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C1DF92F-967F-4A0C-AF80-580B72F8DEEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C1DF92F-967F-4A0C-AF80-580B72F8DEEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C1DF92F-967F-4A0C-AF80-580B72F8DEEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C1DF92F-967F-4A0C-AF80-580B72F8DEEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C45013A-A3A8-4CFB-AAFA-EB9E9D6F0180}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C45013A-A3A8-4CFB-AAFA-EB9E9D6F0180}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C45013A-A3A8-4CFB-AAFA-EB9E9D6F0180}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C45013A-A3A8-4CFB-AAFA-EB9E9D6F0180}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD2BCAD3-2AD1-4DEB-9C2A-BB5BAECF6835}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD2BCAD3-2AD1-4DEB-9C2A-BB5BAECF6835}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD2BCAD3-2AD1-4DEB-9C2A-BB5BAECF6835}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD2BCAD3-2AD1-4DEB-9C2A-BB5BAECF6835}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00BF245E-A94D-43E0-BD49-577C9E0A11B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00BF245E-A94D-43E0-BD49-577C9E0A11B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00BF245E-A94D-43E0-BD49-577C9E0A11B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00BF245E-A94D-43E0-BD49-577C9E0A11B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{619E241F-690B-4F0A-979B-BD1C635E2DA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{619E241F-690B-4F0A-979B-BD1C635E2DA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{619E241F-690B-4F0A-979B-BD1C635E2DA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{619E241F-690B-4F0A-979B-BD1C635E2DA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
